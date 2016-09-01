@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Suisosui</string>
+    <string name="action_settings">Settings</string>
+    <string name="density">Suisoの濃さ</string>
+    <string name="suiso_ok">Suisosuiを今すぐ作成</string>
+    <string name="dame">バッテリーが不十分！質の良い波動が作れません！</string>
+    <string name="kita">波動を止める</string>
+    <string name="start">作る！</string>
+</resources>
